@@ -4,7 +4,7 @@ pipeline {
         stage('Static Analysis') {
             steps {
                 echo 'Run the static analysis to the code'
-                echo 'Editing the file. Hello I am Yashraj Rai'
+                echo 'Editing the file. Hello I am Yashraj Rai from India'
             }
         }
         stage('Compile') {
